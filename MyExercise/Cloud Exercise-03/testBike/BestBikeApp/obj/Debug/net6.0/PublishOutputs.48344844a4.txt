@@ -1,0 +1,7 @@
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyExercise\Cloud Exercise-03\testBike\BestBikeApp\pub\BestBikeApp.exe
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyExercise\Cloud Exercise-03\testBike\BestBikeApp\pub\appsettings.Development.json
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyExercise\Cloud Exercise-03\testBike\BestBikeApp\pub\appsettings.json
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyExercise\Cloud Exercise-03\testBike\BestBikeApp\pub\BestBikeApp.dll
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyExercise\Cloud Exercise-03\testBike\BestBikeApp\pub\BestBikeApp.deps.json
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyExercise\Cloud Exercise-03\testBike\BestBikeApp\pub\BestBikeApp.runtimeconfig.json
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyExercise\Cloud Exercise-03\testBike\BestBikeApp\pub\BestBikeApp.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "snOpQnZ6n1YlfXTX5SMVnlG2zCWtV+VqLzVL3L0kqbK1bSf2G4F8714I+Ad0J+/63/qI96888YLt8aBwf1iWCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wcg\\source\\repos\\se-cloud-2021-2022\\Source\\MyCloudProjectSample\\MyExercise\\Cloud Exercise-02\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wcg\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

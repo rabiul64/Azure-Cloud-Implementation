@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wcg\\source\\repos\\se-cloud-2021-2022\\Source\\MyCloudProjectSample\\TimeSeriesSequence\\TimeSeriesSequence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wcg\\source\\repos\\se-cloud-2021-2022\\Source\\MyCloudProjectSample\\TimeSeriesSequence\\TimeSeriesSequence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wcg\\source\\repos\\se-cloud-2021-2022\\Source\\MyCloudProjectSample\\TimeSeriesSequence\\TimeSeriesSequence.csproj",
+        "projectName": "TimeSeriesSequence",
+        "projectPath": "C:\\Users\\wcg\\source\\repos\\se-cloud-2021-2022\\Source\\MyCloudProjectSample\\TimeSeriesSequence\\TimeSeriesSequence.csproj",
+        "packagesPath": "C:\\Users\\wcg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wcg\\Source\\Repos\\se-cloud-2021-2022\\Source\\MyCloudProjectSample\\TimeSeriesSequence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wcg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Azure.Storage.Blob": {
+              "target": "Package",
+              "version": "[11.2.3, )"
+            },
+            "Microsoft.Azure.Storage.Common": {
+              "target": "Package",
+              "version": "[11.2.3, )"
+            },
+            "Microsoft.Azure.Storage.Queue": {
+              "target": "Package",
+              "version": "[11.2.3, )"
+            },
+            "NeoCortexApi": {
+              "target": "Package",
+              "version": "[1.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

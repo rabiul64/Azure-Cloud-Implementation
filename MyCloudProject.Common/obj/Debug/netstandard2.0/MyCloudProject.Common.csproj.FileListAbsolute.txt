@@ -1,0 +1,10 @@
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\netstandard2.0\MyCloudProject.Common.deps.json
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\netstandard2.0\MyCloudProject.Common.dll
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\netstandard2.0\MyCloudProject.Common.pdb
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\netstandard2.0\MyCloudProject.Common.csproj.AssemblyReference.cache
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\netstandard2.0\MyCloudProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\netstandard2.0\MyCloudProject.Common.AssemblyInfoInputs.cache
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\netstandard2.0\MyCloudProject.Common.AssemblyInfo.cs
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\netstandard2.0\MyCloudProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\netstandard2.0\MyCloudProject.Common.dll
+C:\Users\wcg\source\repos\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\netstandard2.0\MyCloudProject.Common.pdb

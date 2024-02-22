@@ -1,0 +1,51 @@
+Exercise 3
+
+1. dotnet new mvc --name BestBikeApp
+
+2. cd BestBikeApp; dotnet run
+	check the app is running ok
+
+3. dotnet publish -o pub 
+
+4. Go inside publish and create zip as "site.zip"
+
+5. az login
+
+6. Create your resouce group - here (BikeApp) and create a webapp in Azure Portal - here (bikeapp)
+
+7. az webapp deployment source config-zip --src site.zip --resource-group BikeApp --name bikeapp
+
+Open browser and your webapp is running
+
+Exercise 4
+
+1. Add docker support to the webapp
+
+2. Create azure container registry - here
+        az acr create --name webapp1ex04 --resource-group BikeApp --sku standard --admin-enabled true
+
+3. Deploy the Dockerfile to ACR - 
+        az acr build --file Dockerfile --registry webapp1ex04 --image ex04app .
+
+OR
+   Create docker image 
+        docker build -t ex04app .
+		 
+   Create tag as per registry
+        docker tag ex04:dev ex04app.azurecr.io/ex04app:latest
+
+    Azure CLI login to ACR
+	    az acr login -n ex04app.azurecr.io
+		
+    Push docker image
+	    docker push ex04app.azurecr.io/ex04app:latest
+
+
+4. Create webapp via GUI for Docker container which was push in Step 3
+
+
+
+
+
+
+

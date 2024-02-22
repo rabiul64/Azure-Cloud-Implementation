@@ -1,0 +1,13 @@
+Prediction_Result637961964903449295.txt
+******User Prediction Result Starting*****
+[User DateTime Input : ,  01/01/2022 12:15]
+[PASSANGER SIMILARITY : 0,  PREDICTED PASSANGER NO : 0]
+****User Prediction Result Ending*****
+******User Prediction Result Starting*****
+[User DateTime Input : ,   01/02/2022 2:10]
+[PASSANGER SIMILARITY : 0,  PREDICTED PASSANGER NO : 0]
+****User Prediction Result Ending*****
+******User Prediction Result Starting*****
+[User DateTime Input : ,   02/02/2022 05:05]
+[PASSANGER SIMILARITY : 0,  PREDICTED PASSANGER NO : 0]
+****User Prediction Result Ending*****
